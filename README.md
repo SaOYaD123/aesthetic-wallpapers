@@ -46,7 +46,6 @@ Here are some previews of what's inside:
 - **Nature**: Serene landscapes, forests, mountains, and more. 🌳
 - **Abstract**: Vibrant, artistic, and unique patterns. 🎨
 
-(Feel free to add actual preview images here if hosting on GitHub!)
 
 ## ✍️ Contributing
 We welcome contributions! If you have aesthetic wallpapers you'd like to share:
