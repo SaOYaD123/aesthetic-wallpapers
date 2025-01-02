@@ -57,15 +57,9 @@ We welcome contributions! If you have aesthetic wallpapers you'd like to share:
 ## 📜 License
 All wallpapers in this repository are provided under the **Creative Commons** license unless stated otherwise. Please check individual wallpapers for attribution requirements. ✅
 
-```
-
-Animations include:
-- Looping visuals for desktops. 🔁
-- Soothing scenes for relaxation. 🌌
-- Dynamic patterns for inspiration. 💫
-
 ---
 
 Enjoy the collection and let your setup shine! 🌟
 
 Feel free to star ⭐ the repository if you like it! ❤️
+
