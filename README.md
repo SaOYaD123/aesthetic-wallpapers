@@ -57,16 +57,6 @@ We welcome contributions! If you have aesthetic wallpapers you'd like to share:
 ## 📜 License
 All wallpapers in this repository are provided under the **Creative Commons** license unless stated otherwise. Please check individual wallpapers for attribution requirements. ✅
 
-
-/aesthetic-wallpapers
-
-├── 🎨 abstract
-├── 📐 minimal
-├── 🌳 nature
-├── 🎞️ retro
-├── 🌌 space
-├── 🌈 vibrant
-└── 🔁 animations
 ```
 
 Animations include:
