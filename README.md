@@ -1,6 +1,6 @@
 # Aesthetic Wallpapers
 
-Welcome to the **Aesthetic Wallpapers** repository! ✨ This collection is dedicated to bringing visually stunning and artistic wallpapers to enhance your desktop or mobile experience. Whether you're into minimalism, nature, abstract art, or vibrant colors, we've got you covered! 🌈
+Welcome to the **Aesthetic Wallpapers** repository! ✨ This collection is dedicated to bringing visually stunning and artistic wallpapers to enhance your desktop experience. Whether you're into minimalism, nature, abstract art, or vibrant colors, we've got you covered! 🌈
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🎉+Welcome+to+Aesthetic+Wallpapers!;🎨+Enhance+Your+Setup+With+Artistic+Designs;🌿+Explore+Minimalism,+Nature,+Abstract+Art;&font=Poppins">
