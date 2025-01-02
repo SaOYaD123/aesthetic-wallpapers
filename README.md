@@ -59,5 +59,7 @@ All wallpapers in this repository are provided under the **Creative Commons** li
 
 ---
 
-Feel free to star ⭐ the repository if you like it! ❤️
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Enjoy+the+collection+and+let+your+setup+shine!+🌟;Feel+free+to+star+⭐+the+repository+if+you+like+it!+❤️;&font=Poppins">
+</h1>
 
