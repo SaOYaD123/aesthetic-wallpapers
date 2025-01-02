@@ -59,6 +59,7 @@ All wallpapers in this repository are provided under the **Creative Commons** li
 
 
 /aesthetic-wallpapers
+
 ├── 🎨 abstract
 ├── 📐 minimal
 ├── 🌳 nature
