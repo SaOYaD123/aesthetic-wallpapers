@@ -17,12 +17,18 @@ The wallpapers are organized into folders based on categories:
 
 ```
 /aesthetic-wallpapers
-├── abstract
-├── minimal
-├── nature
-├── retro
-├── space
-└── vibrant
+├── 🎨 abstract
+│   A splash of colors, patterns, and shapes creating unique visual aesthetics.
+├── 📐 minimal
+│   Clean, simple, and clutter-free designs for a distraction-free workspace.
+├── 🌳 nature
+│   Breathtaking landscapes, serene forests, and picturesque mountains.
+├── 🎞️ retro
+│   A nostalgic trip with vintage, neon, and retro-inspired designs.
+├── 🌌 space
+│   Explore the cosmos with galaxies, stars, and celestial wonders.
+└── 🌈 vibrant
+    Bright and bold wallpapers to make your screen pop with life.
 ```
 
 ## 📥 How to Use
@@ -51,30 +57,21 @@ We welcome contributions! If you have aesthetic wallpapers you'd like to share:
 ## 📜 License
 All wallpapers in this repository are provided under the **Creative Commons** license unless stated otherwise. Please check individual wallpapers for attribution requirements. ✅
 
-## 🎥 Animation Showcase
-Looking for animated wallpapers or visual demos? Check out our curated collection of aesthetic animations in the `animations` folder:
 
-```
 /aesthetic-wallpapers
-├── abstract
-├── minimal
-├── nature
-├── retro
-├── space
-├── vibrant
-└── animations
+├── 🎨 abstract
+├── 📐 minimal
+├── 🌳 nature
+├── 🎞️ retro
+├── 🌌 space
+├── 🌈 vibrant
+└── 🔁 animations
 ```
 
 Animations include:
 - Looping visuals for desktops. 🔁
 - Soothing scenes for relaxation. 🌌
 - Dynamic patterns for inspiration. 💫
-
-## 🤝 Acknowledgments
-Special thanks to:
-- Unsplash 📸
-- Pexels 🌅
-- Other amazing creators for sharing their work! 🌟
 
 ---
 
