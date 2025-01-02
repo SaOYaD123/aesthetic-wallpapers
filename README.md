@@ -59,7 +59,5 @@ All wallpapers in this repository are provided under the **Creative Commons** li
 
 ---
 
-Enjoy the collection and let your setup shine! 🌟
-
 Feel free to star ⭐ the repository if you like it! ❤️
 
