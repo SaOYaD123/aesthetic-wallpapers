@@ -32,7 +32,7 @@ The wallpapers are organized into folders based on categories:
 ```
 
 ## 📥 How to Use
-1. Clone or download the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/SaOYaD123/aesthetic-wallpapers.git
    ```
